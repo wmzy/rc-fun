@@ -1,0 +1,25 @@
+{
+  "name": "rc-fun",
+  "version": "0.0.0",
+  "description": "react helper functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmzy/rc-fun.git"
+  },
+  "keywords": [
+    "react",
+    "rc",
+    "function",
+    "helper"
+  ],
+  "author": "wmzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wmzy/rc-fun/issues"
+  },
+  "homepage": "https://github.com/wmzy/rc-fun#readme"
+}
