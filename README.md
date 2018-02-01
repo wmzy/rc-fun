@@ -15,7 +15,7 @@ npm install rc-fun
 ### bind
 
 ```javascript
-import {bind} from 'rc-fun';
+import {bind, bindKey} from 'rc-fun';
 
 ```
 
